@@ -32,16 +32,16 @@ This project analyzes 500,000 LendingClub loans using SQL for data exploration a
 ## Dashboard
 
 ### Page 1 — Executive Summary
-![Page 1](page1_executive_summary.png)
+![Page 1](page1_executive_summary.PNG)
 
 ### Page 2 — Portfolio Overview
-![Page 2](page2_portfolio_overview.png)
+![Page 2](page2_portfolio_overview.PNG)
 
 ### Page 3 — Borrower Risk Analysis
-![Page 3](page3_borrower_risk.png)
+![Page 3](page3_borrower_risk.PNG)
 
 ### Page 4 — Trends & Forecast
-![Page 4](page4_trends_forecast.png)
+![Page 4](page4_trends_forecast.PNG)
 
 ---
 
